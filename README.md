@@ -1,4 +1,4 @@
-# global-git-log (gg-log)
+# gg-log
 
 Global git log shows you all of your git commits across multiple directories over a given interval.
 
@@ -15,7 +15,7 @@ If no arguments are supplied, `<time>` defaults to `1.day` and `<directory>` def
 
 # Video Example
 
-//Asciinema Video to Come
+[![asciicast](https://asciinema.org/a/awy7s165ktybdfxayck6t5gdb.png)](https://asciinema.org/a/awy7s165ktybdfxayck6t5gdb)
 
 # Installation
 
