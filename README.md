@@ -6,10 +6,10 @@ Global git log shows you all of your git commits across multiple directories ove
 
 Here, `<time>` abides by any time format that can be supplied to traditional `git log` arguments. Here are some examples:
 
-    $ gg-log 1.day
-    $ gg-log 7.am
-    $ gg-log 6.hours
-    $ gg-log 1.week
+    $ gg-log 1.day dir1
+    $ gg-log 7.am dir2
+    $ gg-log 6.hours dir3
+    $ gg-log 1.week dir4
 
 If no arguments are supplied, `<time>` defaults to `1.day` and `<directory>` defaults to `~`.
 
