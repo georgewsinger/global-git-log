@@ -1,6 +1,6 @@
 {
   "name": "gg-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "View your git commits across multiple directories in a beautiful console format.",
   "main": "index.js",
   "bin": "index.js",
