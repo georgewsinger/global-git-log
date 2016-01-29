@@ -1,8 +1,9 @@
 {
-  "name": "global-git-log",
+  "name": "gg-log",
   "version": "1.0.0",
   "description": "View your git commits across multiple directories in a beautiful console format.",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
