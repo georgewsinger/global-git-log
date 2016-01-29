@@ -17,6 +17,12 @@ If no arguments are supplied, `<time>` defaults to `1.day` and `<directory>` def
 
 //Asciinema Video to Come
 
+# Installation
+
+    $ npm install -g gg-log
+
+Alternatively, one can clone this repository and invoke `./gg-log.sh <time> <directory>` directly through the shell.
+
 # Requirements
 
 - Unix system (i.e., Linux/Mac)
