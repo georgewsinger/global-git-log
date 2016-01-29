@@ -1,0 +1,21 @@
+{
+  "name": "global-git-log",
+  "version": "1.0.0",
+  "description": "View your git commits across multiple directories in a beautiful console format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "console",
+    "terminal",
+    "shell",
+    "CLI",
+    "log",
+    "logger"
+  ],
+  "author": "George Singer",
+  "license": "MIT"
+}
