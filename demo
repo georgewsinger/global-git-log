@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 8.414585,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009480,
+      "\u001b]0;george@ArchBox:~/Dropbox/ggl\u0007"
+    ],
+    [
+      0.004439,
+      "\u001b]0;george@ArchBox: ~/Dropbox/ggl\u0007george@ArchBox:~/Dropbox/ggl$ "
+    ],
+    [
+      2.016229,
+      "g"
+    ],
+    [
+      0.143908,
+      "g"
+    ],
+    [
+      0.104019,
+      "-"
+    ],
+    [
+      0.215925,
+      "l"
+    ],
+    [
+      0.152157,
+      "o"
+    ],
+    [
+      0.087930,
+      "g"
+    ],
+    [
+      0.184027,
+      " "
+    ],
+    [
+      0.167936,
+      "1"
+    ],
+    [
+      0.160012,
+      "."
+    ],
+    [
+      0.152047,
+      "d"
+    ],
+    [
+      0.103850,
+      "a"
+    ],
+    [
+      0.088087,
+      "y"
+    ],
+    [
+      0.104032,
+      " "
+    ],
+    [
+      0.216034,
+      "t"
+    ],
+    [
+      0.087960,
+      "e"
+    ],
+    [
+      0.096102,
+      "s"
+    ],
+    [
+      0.071995,
+      "t"
+    ],
+    [
+      0.208002,
+      "d"
+    ],
+    [
+      0.151852,
+      "i"
+    ],
+    [
+      0.104125,
+      "r"
+    ],
+    [
+      0.624138,
+      "\r\n"
+    ],
+    [
+      0.079089,
+      "\r\nfolder3\r\n\u001b[31m526ffd2 - \u001b[m2 hours ago : \u001b[32mAnd heres another folder3 commit.\u001b[m \u001b[31m (HEAD -\u003e master)\u001b[m\r\n\u001b[31m0e2b146 - \u001b[m2 hours ago : \u001b[32mInitial commit in folder3.\u001b[m \u001b[31m\u001b[m\r\n\r\n\r\nfolder1\r\n\u001b[31mf11d8c1 - \u001b[m75 minutes ago : \u001b[32mMore progress in folder1.\u001b[m \u001b[31m (HEAD -\u003e master)\u001b[m\r\n\u001b[31md0e59b1 - \u001b[m75 minutes ago : \u001b[32mProgress today in folder1.\u001b[m \u001b[31m\u001b[m\r\n\u001b[31m7c30131 - \u001b[m75 minutes ago : \u001b[32mStarting up folder1.\u001b[m \u001b[31m\u001b[m\r\n\r\n\r\nfolder2\r\n\u001b[31m1228c65 - \u001b[m82 minutes ago : \u001b[32mSome progress in folder2.\u001b[m \u001b[31m (HEAD -\u003e master)\u001b[m\r\n\u001b[31ma37d49a - \u001b[m82 minutes ago : \u001b[32mInitializing folder2.\u001b[m \u001b[31m\u001b[m\r\n\r\n\r\n"
+    ],
+    [
+      0.001120,
+      "\u001b]0;george@ArchBox:~/Dropbox/ggl\u0007"
+    ],
+    [
+      0.005751,
+      "\u001b]0;george@ArchBox: ~/Dropbox/ggl\u0007george@ArchBox:~/Dropbox/ggl$ "
+    ],
+    [
+      2.129861,
+      "e"
+    ],
+    [
+      0.208023,
+      "x"
+    ],
+    [
+      0.087927,
+      "i"
+    ],
+    [
+      0.120021,
+      "t"
+    ],
+    [
+      0.528406,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
